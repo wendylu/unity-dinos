@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player Spawner.js">
+    <Files>
+      <File FileName="Assets/Scripts/ThirdPersonController.js" Line="71" Column="29" />
+      <File FileName="Assets/Scripts/ThirdPersonCamera.js" Line="24" Column="28" />
+      <File FileName="Assets/Scripts/Enemy.js" Line="10" Column="35" />
+      <File FileName="Assets/Scripts/Player Spawner.js" Line="9" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
